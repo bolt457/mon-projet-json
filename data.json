@@ -1,0 +1,62 @@
+[
+  {
+    "companyName": "Entreprise Exemple",
+    "service": "Développement Web",
+    "description": "Nous offrons des services de développement web de haute qualité pour aider votre entreprise à prospérer en ligne.",
+    "contact": {
+      "email": "contact@exemple.com",
+      "phone": "+1234567890"
+    },
+    "logoUrl": "https://exemple.com/logo.png",
+    "backgroundImageUrl": "https://exemple.com/background.jpg",
+    "callToAction": "Contactez-nous pour en savoir plus!",
+    "animationStyle": "fadeIn"
+  },
+  {
+    "missionStatement": "Notre mission est d'apporter une valeur ajoutée à votre entreprise grâce à des solutions digitales innovantes.",
+    "servicesOffered": [
+      "Développement de sites web",
+      "Applications mobiles",
+      "SEO et marketing digital",
+      "Design UI/UX"
+    ],
+    "testimonials": [
+      {
+        "clientName": "Jean Dupont",
+        "testimonial": "Excellente expérience, un service rapide et professionnel!"
+      },
+      {
+        "clientName": "Marie Claire",
+        "testimonial": "Des résultats au-delà de mes attentes!"
+      }
+    ],
+    "investmentDetails": {
+      "investmentOpportunities": [
+        {
+          "opportunityName": "Projets Innovants",
+          "percentage": 15,
+          "description": "Investir dans des projets innovants pour un retour sur investissement élevé."
+        },
+        {
+          "opportunityName": "Expansion Internationale",
+          "percentage": 20,
+          "description": "Participer à l'expansion internationale de notre entreprise."
+        }
+      ]
+    },
+    "workforceRecruitment": {
+      "positionsAvailable": [
+        {
+          "position": "Développeur Full Stack",
+          "requirements": "Expérience en développement web et mobile, maîtrise des technologies modernes.",
+          "contact": "recruitment@exemple.com"
+        },
+        {
+          "position": "Designer UI/UX",
+          "requirements": "Expérience en design UI/UX, portfolio de projets précédents.",
+          "contact": "recruitment@exemple.com"
+        }
+      ]
+    }
+  }
+]
